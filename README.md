@@ -1,1 +1,1 @@
-# git-clone-practice project done by gio 
+# git-clone-practice
